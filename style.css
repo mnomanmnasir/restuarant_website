@@ -76,7 +76,7 @@ body {
 .menu-items {
   order: 2;
   display: flex;
-  background: green;
+  /* background: green; */
 }
 
 .menu-items li {
